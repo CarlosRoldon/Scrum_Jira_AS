@@ -15,7 +15,7 @@
 | **Equipo / Squad** | Squad 06 |
 | **Integrantes** | Julián David Oviedo . Leonardo Fonseca Palma · Juan Sebastian Pineda
 | **Sistema analizado** | Sistema de Gestión Integral para Veterinaria Sandoval (SGV) |
-| **Repositorio GitHub** | `https://github.com/<usuario>/actividad-nivel3-veterinaria-sandoval` |
+| **Repositorio GitHub** | `https://github.com/CarlosRoldon/Scrum_Jira_AS_G6/tree/main/Taller%202` |
 
 ---
 
